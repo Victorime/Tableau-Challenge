@@ -1,18 +1,8 @@
-README.md
-Tableau Homework - Citi Bike Analytics
-Before You Begin
-This assignment will be saved to your tableau public account rather than github.
 
-If you haven't already, be sure to create a tableau public account here.
+## Tableau Project 
 
-The free tier of tableau only lets you save to their public server. This means that each time you save your file it will be uploaded to your tableau public profile.
-
-You are able to load and continue working on the same workbook.
-
-When you are finished with your assignment, you will turn in the URL to your tableau public workbook along with any additional files used for your analysis.
-
-Background
-Citi-Bikes
+# Background
+# Citi-Bikes
 
 Congratulations on your new job! As the new lead analyst for the New York Citi Bike Program, you are now responsible for overseeing the largest bike sharing program in the United States. In your new role, you will be expected to generate regular reports for city officials looking to publicize and improve the city program.
 
@@ -20,7 +10,7 @@ Since 2013, the Citi Bike Program has implemented a robust infrastructure for co
 
 However, while the data has been regularly updated, the team has yet to implement a dashboard or sophisticated reporting process. City officials have a number of questions on the program, so your first task on the job is to build a set of data reports to provide the answers.
 
-Task
+# Task
 Your task in this assignment is to aggregate the data found in the Citi Bike Trip History Logs and find two unexpected phenomena.
 
 Design 2-5 visualizations for each discovered phenomena (4-10 total). You may work with a timespan of your choosing. Optionally, you may merge multiple datasets from different periods.
@@ -76,7 +66,7 @@ This is what will be presented to the officials, so be sure to make it professio
 Considerations
 Remember, the people reading your analysis will NOT be data analysts. Your audience will be city officials, public administrators, and heads of New York City departments. Your data and analysis needs to be presented in a way that is focused, concise, easy-to-understand, and visually compelling. Your visualizations should be colorful enough to be included in press releases, and your analysis should be thoughtful enough for dictating programmatic changes.
 
-Submission
+# Submission
 Your final submission should include:
 
 A link to your Tableau Public workbook that includes:
@@ -90,7 +80,7 @@ In order to share your work, we are asking that you will save your workbook as a
 
 To save your workbook as a .twbx file, you will just need to select "Save As..." from the "File" dropdown. Then, select the .twbx option.
 
-Assessment
+# Assessment
 Your final product will be assessed on the following metrics:
 
 Analytic Rigor
@@ -99,7 +89,7 @@ Readability
 
 Visual Attraction
 
-Hints
+# Hints
 You may need to get creative in how you combine each of the CSV files. Don't just assume Tableau is the right tool for the job. At this point, you have a wealth of technical skills and research abilities. Dig for an approach that works and just go with it.
 
 Don't just assume the CSV format hasn't changed since 2013. Subtle changes to the formats in any of your columns can blockade your analysis. Ensure your data is consistent and clean throughout your analysis. (Hint: Start and End Time change at some point in the history logs).
