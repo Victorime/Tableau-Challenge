@@ -1,6 +1,4 @@
 
-## Tableau Project 
-
 # Background
 # Citi-Bikes
 
